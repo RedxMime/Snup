@@ -30,7 +30,7 @@ banner() {
 
 printf "\e[1;95m                             ______           \e[0m\n"
 printf "\e[1;95m                          .-        -.         \e[0m\n"
-printf "\e[1;95m                         / SKAR-HACK  \         \e[0m\n"
+printf "\e[1;95m                         / GentileTGT  \         \e[0m\n"
 printf "\e[1;95m                           ---------             \e[0m\n"
 printf "\e[1;95m                        |,  .-.  .-.  ,|         \e[0m\n" 
 printf "\e[1;77m                        | )(_ /  \_ )( |             \e[0m\n"
@@ -41,7 +41,7 @@ printf "\e[1;91m        (_)@8@8{}<________ ____________________________________>
 printf "\e[1;91m               )_/         \ IIIIII /                                  \e[0m\n"
 printf "\e[1;91m              (@            --------                                   \e[0m\n"
 
-printf "\e[1;91m                   SKAR HACK (Telegram-skar44)  \e[0m\n" 
+printf "\e[1;91m                   Genesis Gentile   \e[0m\n" 
 }
 
 
